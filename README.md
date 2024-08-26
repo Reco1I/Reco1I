@@ -44,4 +44,4 @@ Specialized with Java and Kotlin primarily, with a certain experience in the fol
 ## Contact
 
 * [Discord](https://discord.com/users/461360133503451137)
-* [Linkedin](www.linkedin.com/in/geronimo-ferruccio-081110325)
+* [Linkedin](https://www.linkedin.com/in/gerónimo-ferruccio-081110325)
