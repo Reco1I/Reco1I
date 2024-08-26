@@ -17,6 +17,7 @@ Specialized with Java and Kotlin primarily, with a certain experience in the fol
 * JavaScript
 * TypeScript
 * C#
+* C++
 * Pawn
 * Lua
 * GLSL
