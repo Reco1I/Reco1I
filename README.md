@@ -37,3 +37,8 @@ Specialized with Java and Kotlin primarily, with a certain experience in the fol
 * SQLite
 * SQLServer
 * MySQL
+
+## Contact
+
+* [Discord](https://discord.com/users/461360133503451137)
+* [Linkedin](www.linkedin.com/in/geronimo-ferruccio-081110325)
