@@ -7,7 +7,7 @@ I'm currently working at the National Institute of Industrial Technology as a so
 
 ## Skills
 
-#### Programming languages / Markup languages
+#### Programming languages
 Specialized with Java and Kotlin primarily, with a certain experience in the followings:
 
 * Java
@@ -21,9 +21,9 @@ Specialized with Java and Kotlin primarily, with a certain experience in the fol
 * Pawn
 * Lua
 * GLSL
-* SQL
-* HTML
-* CSS
+* Ruby
+
+_As well with HTML, CSS and SQL abilities._
 
 #### Frameworks, Development enviroments & tools
 
