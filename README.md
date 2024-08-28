@@ -33,6 +33,7 @@ _As well with HTML, CSS and SQL abilities._
 * Kotlin Compose
 * Koltin Multiplatform
 * CodeIgniter 3.x and 4.x
+* Ktor
 * Spring Boot
 * OpenGL
 * jQuery
