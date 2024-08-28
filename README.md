@@ -27,7 +27,7 @@ _As well with HTML, CSS and SQL abilities._
 
 #### Frameworks, Development enviroments & tools
 
-* Linux as development tool, but I don't bother using Windows.
+* Linux as development enviroment, but I don't bother using Windows.
 * Git
 * Android
 * Kotlin Compose
