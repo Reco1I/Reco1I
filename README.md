@@ -8,39 +8,12 @@ I'm currently working at the National Institute of Industrial Technology as a so
 ## Skills
 
 #### Programming languages
-Specialized with Java and Kotlin primarily, with a certain experience in the followings:
-
-* Java
-* Kotlin
-* PHP
-* Python
-* JavaScript
-* TypeScript
-* C#
-* C++
-* Pawn
-* Lua
-* GLSL
-* Ruby
-
-_As well with HTML, CSS and SQL abilities._
+Specialized with Java and Kotlin primarily, with a certain experience with PHP, Python, JavaScript, TypeScript, C#, C++, Lua, GLSL and Ruby.
 
 #### Frameworks, Development enviroments & tools
 
-* Linux as development enviroment, but I don't bother using Windows.
-* Git
-* Android
-* Kotlin Compose
-* Koltin Multiplatform
-* CodeIgniter 3.x and 4.x
-* Ktor
-* Spring Boot
-* OpenGL
-* jQuery
-* Bootstrap 4.x and 5.x
-* SQLite
-* SQLServer
-* MySQL
+Windows is my preferred enviroment for development but I don't bother using Linux. For code versioning of course Git.  
+Furthermore I have experience with Android Framework, Kotlin Compose and Multiplatform, CodeIgniter, Node.js (with express.js), React, Ktor, SpringBoot, OpenGL, jQuery, Bootstrap, SQLite, SQLServer and MySQL.
 
 ## Contact
 
