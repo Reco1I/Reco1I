@@ -13,7 +13,7 @@ Specialized with Java and Kotlin primarily, with a certain experience with PHP, 
 #### Frameworks, Development enviroments & tools
 
 Windows is my preferred enviroment for development but I don't bother using Linux. For code versioning of course Git.  
-Furthermore I have experience with Android Framework, Kotlin Compose and Multiplatform, CodeIgniter, Node.js (with express.js), React, Ktor, SpringBoot, OpenGL, jQuery, Bootstrap, SQLite, SQLServer and MySQL.
+I have experience with Android Framework, Kotlin Compose and Multiplatform, CodeIgniter, Node.js (with express.js), React, Ktor, SpringBoot, OpenGL, jQuery, Bootstrap, SQLite, SQLServer and MySQL.
 
 ## Contact
 
