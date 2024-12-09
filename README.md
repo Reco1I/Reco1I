@@ -8,7 +8,7 @@ I'm currently working at the National Institute of Industrial Technology as a so
 ## Skills
 
 #### Programming languages
-Specialized with Java and Kotlin primarily, with a certain experience with PHP, Python, JavaScript, TypeScript, C#, C++, Lua, GLSL and Ruby.
+Specialized with Java and Kotlin primarily, with experience on PHP, Python, JavaScript, TypeScript, C#, C++, Lua, GLSL and Ruby.
 
 #### Frameworks, Development enviroments & tools
 
