@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Gerónimo. 
 
-I'm a computer science student at the University of Buenos Aires working at the National Institute of Industrial Technology as a software developer.
+I'm a computer science student at the University of Buenos Aires, currently working at the National Institute of Industrial Technology as a software developer.
 
 ## Skills
 
