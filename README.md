@@ -22,6 +22,7 @@ I'm a computer science student at the University of Buenos Aires, currently work
 
 #### Technologies used
 * Next.JS
+* NestJS
 * Kotlin Multiplatform Compose
 * Express.JS
 * Ktor
